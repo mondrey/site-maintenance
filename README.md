@@ -1,2 +1,2 @@
 # site maintenance
- Simple site maintenance plugin for WordPress
+ A simple site maintenance plugin for WordPress
